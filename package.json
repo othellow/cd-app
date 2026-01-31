@@ -1,9 +1,8 @@
 {
   "name": "cd-app",
   "version": "0.1.0",
-  "homepage": "."
+  "homepage": ".",
   "private": true,
-  //rest ofthe file 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
